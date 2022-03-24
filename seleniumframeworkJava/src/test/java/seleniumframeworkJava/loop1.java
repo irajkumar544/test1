@@ -3,11 +3,11 @@ package seleniumframeworkJava;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
+//test
 public class loop1 {	
 	
 	
-	@BeforeTest
+	@Test
 	public void whileloop()
 	{
 		int x=1;
